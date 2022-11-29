@@ -3,7 +3,7 @@
 /ragemp-server.exe
 /ui.log
 /dlcpacks
-/config
+/config/default.json
 /client_packages/game_resources
 /maps
 /node_modules

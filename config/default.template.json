@@ -1,0 +1,11 @@
+{
+    "description": "State99 Config File",
+    "db": {
+        "host": "127.0.0.1",
+        "port": "3306",
+        "database": "database",
+        "user": "user",
+        "password": "password",
+        "debug": true
+    }
+}

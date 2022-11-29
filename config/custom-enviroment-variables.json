@@ -1,0 +1,12 @@
+{
+    "application":"npm_package_name",
+    "version":"npm_package_version",
+    "db": {
+        "host": "RAGEMP_APP_DB_HOST",
+        "port": "RAGEMP_APP_DB_PORT",
+        "database": "RAGEMP_APP_DB_NAME",
+        "user": "RAGEMP_APP_DB_USER",
+        "password": "RAGEMP_APP_DB_PASSWORD",
+        "debug": "RAGEMP_APP_DB_DEBUG"
+    }
+}
